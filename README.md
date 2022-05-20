@@ -1,2 +1,3 @@
 # 01_GitPod_Test
-Hello, was geht leute?
+Hallo, was geht leute?
+was steht heute auf dem Plan?
